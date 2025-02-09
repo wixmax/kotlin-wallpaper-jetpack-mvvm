@@ -185,8 +185,8 @@ class MainActivity : ComponentActivity() {
 }
 ```
 
-### 8. **MainActivity.kt**
- ***الاعتماديات (Dependencies)***
+
+ ### ***الاعتماديات (Dependencies)***
  - أضف الاعتماديات التالية إلى ملف build.gradle (Module: app):
 ```groovy
 dependencies {
